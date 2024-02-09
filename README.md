@@ -5,7 +5,7 @@ Merupakan Program Pemilihan Umum Tahun 2024 untuk memilih Anggota Pasangan Calon
 ## Text-Based Program
 Untuk bagian ini, hanya menggunakan Berbasis Teks saja (Text-based). Misalnya, dalam Bahasa C, C++, C#, Java, Python, dll.
 
-Contoh Output (Tampa CSS) :
+Contoh Output :
 > Program Pemilihan Umum 2024
 > 1. Tampilkan Nama Paslon dan Partai
 > 2. Pilih Paslon dan Partai
