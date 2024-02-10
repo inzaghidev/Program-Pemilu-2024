@@ -7,7 +7,7 @@ Untuk bagian ini, hanya menggunakan Berbasis Teks saja (Text-based). Misalnya, d
 
 Contoh Output :
 >
->======================================
+>>======================================
 >     PROGRAM PEMILIHAN UMUM 2024     
 >--------------------------------------
 >1. Tampilkan Nama Paslon dan Partai
@@ -44,7 +44,7 @@ Contoh Output :
 >
 >Apakah Anda ingin keluar? (y/n): n
 >
->======================================
+>>======================================
 >     PROGRAM PEMILIHAN UMUM 2024     
 >--------------------------------------
 >1. Tampilkan Nama Paslon dan Partai
@@ -64,12 +64,12 @@ Contoh Output :
 >
 >Masukkan Nomor Partai yang dipilih :  3
 >
->======================================
+>>======================================
 >             PILIHAN ANDA             
 >--------------------------------------
 >Pasangan Calon : Anies-Muhaimin
 >Partai Politik : PKS
->======================================
+>>======================================
 >
 >Apakah Anda ingin keluar? (y/n): y
 
