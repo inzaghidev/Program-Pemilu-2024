@@ -6,6 +6,7 @@ Merupakan Program Pemilihan Umum Tahun 2024 untuk memilih Anggota Pasangan Calon
 Untuk bagian ini, hanya menggunakan Berbasis Teks saja (Text-based). Misalnya, dalam Bahasa C, C++, C#, Java, Python, dll.
 
 Contoh Output :
+>
 >======================================
 >     PROGRAM PEMILIHAN UMUM 2024     
 >--------------------------------------
