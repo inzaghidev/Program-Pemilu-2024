@@ -74,4 +74,13 @@ Contoh Output :
 >Apakah Anda ingin keluar? (y/n): y
 
 ## Web-Based App Program
+
+Untuk bagian ini, menggunakan Aplikasi berbasis Web (Web-based) seperti HTML, CSS, JavaScript, dan PHP.
+
+Contoh Output :
+
+![Program Pemilu 2024 dengan HTML menggunakan JavaScript dan PHP](./images/hasil-output-dari-program-pemilu-2024-web-javascript.jpg)
+
+## Desktop-Based App Program
+
 .
